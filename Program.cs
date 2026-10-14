@@ -1,2 +1,2 @@
 ﻿Console.WriteLine("Hello, nemui");
-Console.WriteLine("Hello, newPullRequest");
+Console.WriteLine("Hello, PullRequest");
